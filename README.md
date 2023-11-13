@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/AnthonyCampana/3-column-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://anthonycampana.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
@@ -51,31 +51,11 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+ - What I learned from replicating this design was using flexbox to evenly divide at div in three parts. I also learned how to add hover effects on elements. 
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/) - 
+- [Example resource 1](https://developer.mozilla.org/en-US/) - I used the MDN documentation to learn more about the properties I needed to replicate the design.
 
 ## Author
 
